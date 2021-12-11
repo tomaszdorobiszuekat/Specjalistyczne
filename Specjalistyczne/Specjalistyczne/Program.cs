@@ -18,6 +18,8 @@ namespace Specjalistyczne
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //ui change
+            //ui change 2
         }
     }
 }
